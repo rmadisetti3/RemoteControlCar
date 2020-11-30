@@ -4,10 +4,10 @@
 ##### Team Members
 Raj Madisetti and Arjun Sonti
 
-#### Project Idea
+### Project Idea
 Our idea for this project was to create a remote control car that is operated by an mbed microcontroller in order to allow basic forward, reverse, and turning movements along with autopilot functionality. All user inputs would be sent via the Adafruit Bluefruit LE Connect App available on all mobile phones allowing for an easy and convenient experience. For autopilot, three sensors would be mounted on the front to allow the RC car to detect obstacles and turn accordingly. 
 
-#### Parts List
+### Parts List
 - mBed LPC1768 Microcontroller
 - 3 HC-SR04 Sonar Sensors
 - Dual H-Bridge Motor Driver Chip
@@ -21,9 +21,9 @@ Our idea for this project was to create a remote control car that is operated by
 - Platform to house components on (Approx. 3 breadboards long X 1 breadboard wide)
 - 4 Axles (3D Printed to match the Servo and Brushless DC motors connections to the Wheels)
 
-#### Schematic
+### Schematic
 
-#### Hardware Pin Connections
+### Hardware Pin Connections
 ##### Center HC-SR04 Sonar Sensor 
 - GND --> mbed GND
 - Trig --> mbed pin 6
@@ -63,4 +63,8 @@ Our idea for this project was to create a remote control car that is operated by
 - Vcc --> mbed VIn
 - GND --> mbed GND
 
-#### Final Product
+## Final Product
+### Side View of RC Car
+![Side View of RC Car](RCCarSide.jpg)
+### Rear View of RC Car
+![Rear View of RC Car](RCCarBack.jpg)
