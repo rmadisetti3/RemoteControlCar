@@ -25,42 +25,42 @@ Our idea for this project was to create a remote control car that is operated by
 
 #### Hardware Pin Connections
 ##### Center HC-SR04 Sonar Sensor 
-GND --> mbed GND
-Trig --> mbed pin 6
-Echo --> mbed pin 7
-Vcc --> mbed Vu (5V)
+- GND --> mbed GND
+- Trig --> mbed pin 6
+- Echo --> mbed pin 7
+- Vcc --> mbed Vu (5V)
 
 ##### Right HC-SR04 Sonar Sensor 
-GND --> mbed GND
-Trig --> mbed pin 15
-Echo --> mbed pin 16
-Vcc --> mbed Vu (5V)
+- GND --> mbed GND
+- Trig --> mbed pin 15
+- Echo --> mbed pin 16
+- Vcc --> mbed Vu (5V)
 
 ##### Left HC-SR04 Sonar Sensor 
-GND --> mbed GND
-Trig --> mbed pin 17
-Echo --> mbed pin 18
-Vcc --> mbed Vu (5V)
+- GND --> mbed GND
+- Trig --> mbed pin 17
+- Echo --> mbed pin 18
+- Vcc --> mbed Vu (5V)
 
 ##### Dual H-Bridge Motor Driver 
-GND --> mbed GND
-PWMA --> mbed pin 21
-AI2 --> mbed pin 22
-AI1 --> mbed pin 23
-AO2 --> Red Brushless DC Motor lead 
-AO1 --> Black Brushless DC Motor lead
-VM --> mbed Vu (5V)
-Vcc --> mbed VOut (3.3V)
+- GND --> mbed GND
+- PWMA --> mbed pin 21
+- AI2 --> mbed pin 22
+- AI1 --> mbed pin 23
+- AO2 --> Red Brushless DC Motor lead 
+- AO1 --> Black Brushless DC Motor lead
+- VM --> mbed Vu (5V)
+- Vcc --> mbed VOut (3.3V)
 
 ##### Adafruit Bluetooth LE UART Friend
-GND --> mbed GND
-CTS --> mbed GND
-RXI --> mbed pin 13
-TXO --> mbed pin 14
-VIn --> mbed Vu (5V)
+- GND --> mbed GND
+- CTS --> mbed GND
+- RXI --> mbed pin 13
+- TXO --> mbed pin 14
+- VIn --> mbed Vu (5V)
 
 ##### Barrel Jack (External Power)
-Vcc --> mbed VIn
-GND --> mbed GND
+- Vcc --> mbed VIn
+- GND --> mbed GND
 
 #### Final Product
