@@ -63,6 +63,12 @@ Our idea for this project was to create a remote control car that is operated by
 - Vcc --> mbed VIn
 - GND --> mbed GND
 
+### 3D Part Renders
+![Rear Power Axles](axle_top.png)
+![Rear Power Axles](axle_side.png)
+![Front Axle](front_axle.png)
+
+
 ## Final Product
 ### Side View of RC Car
 ![Side View of RC Car](RCCarSide.jpg)
