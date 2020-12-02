@@ -23,6 +23,13 @@ Our idea for this project was to create a remote control car that is operated by
 
 ### Schematic
 
+### 3D Part Renders
+#### Rear Axle
+<img src="axle_top.png" alt="Axle top" width="400"/> <img src="axle_side.png" alt="Axle side" width="400"/>
+
+#### Front Axle
+<img src="front_axle.png" alt="Front axle" width="400"/>
+
 ### Hardware Pin Connections
 ##### Center HC-SR04 Sonar Sensor 
 - GND --> mbed GND
@@ -62,13 +69,6 @@ Our idea for this project was to create a remote control car that is operated by
 ##### Barrel Jack (External Power)
 - Vcc --> mbed VIn
 - GND --> mbed GND
-
-### 3D Part Renders
-#### Rear Axle
-<img src="axle_top.png" alt="Axle top" width="400"/> <img src="axle_side.png" alt="Axle side" width="400"/>
-
-#### Front Axle
-<img src="front_axle.png" alt="Front axle" width="400"/>
 
 
 ## Final Product
