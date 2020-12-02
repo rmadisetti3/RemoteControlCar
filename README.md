@@ -64,9 +64,11 @@ Our idea for this project was to create a remote control car that is operated by
 - GND --> mbed GND
 
 ### 3D Part Renders
-![Rear Power Axles](axle_top.png)
-![Rear Power Axles](axle_side.png)
-![Front Axle](front_axle.png)
+#### Rear Axle
+<img src="axle_top.png" alt="Axle top" width="400"/> <img src="axle_side.png" alt="Axle side" width="400"/>
+
+#### Front Axle
+<img src="front_axle.png" alt="Front axle" width="400"/>
 
 
 ## Final Product
