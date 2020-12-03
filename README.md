@@ -36,19 +36,19 @@ Our idea for this project was to create a remote control car that is operated by
 - GND --> mbed GND
 - Trig --> mbed pin 6
 - Echo --> mbed pin 7
-- Vcc --> mbed Vu (5V)
+- Vcc --> Power +6V
 
 ##### Right HC-SR04 Sonar Sensor 
 - GND --> mbed GND
 - Trig --> mbed pin 15
 - Echo --> mbed pin 16
-- Vcc --> mbed Vu (5V)
+- Vcc --> Power +6V
 
 ##### Left HC-SR04 Sonar Sensor 
 - GND --> mbed GND
 - Trig --> mbed pin 17
 - Echo --> mbed pin 18
-- Vcc --> mbed Vu (5V)
+- Vcc --> Power +6V
 
 ##### Dual H-Bridge Motor Driver 
 - GND --> mbed GND
@@ -57,7 +57,7 @@ Our idea for this project was to create a remote control car that is operated by
 - AI1 --> mbed pin 23
 - AO2 --> Red Brushless DC Motor lead 
 - AO1 --> Black Brushless DC Motor lead
-- VM --> mbed Vu (5V)
+- VM --> Power +6V
 - Vcc --> mbed VOut (3.3V)
 
 ##### Adafruit Bluetooth LE UART Friend
@@ -65,10 +65,10 @@ Our idea for this project was to create a remote control car that is operated by
 - CTS --> mbed GND
 - RXI --> mbed pin 13
 - TXO --> mbed pin 14
-- VIn --> mbed Vu (5V)
+- VIn --> Power +6V
 
 ##### Barrel Jack (External Power)
-- Vcc --> mbed VIn
+- Vcc --> mbed VIn and Power +6V Supply line
 - GND --> mbed GND
 
 
